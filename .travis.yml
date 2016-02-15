@@ -13,3 +13,4 @@ install: "pip install -r myapp/requirements.txt"
 script: python test.py
 
 sudo: false
+cache: pip
