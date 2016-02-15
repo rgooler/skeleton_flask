@@ -12,3 +12,4 @@ install: "pip install -r myapp/requirements.txt"
 # command to run tests
 script: python test.py
 
+sudo: false
