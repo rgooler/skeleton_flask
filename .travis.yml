@@ -11,5 +11,5 @@ python:
 # command to install dependencies
 install: "pip install -r myapp/requirements.txt"
 # command to run tests
-script: test.py
+script: python test.py
 
